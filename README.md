@@ -15,7 +15,7 @@ $ conda install -c conda-forge keras
 
 ## 4. Install jupyter notebook and matplotlib
 
-$ pip install jupyterlab
+$ pip install jupyterlab \
 $ pip install matplotlib
 
 ## 5. Change path to the directory Tensorflow2.0Tutorial
